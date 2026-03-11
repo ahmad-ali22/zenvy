@@ -7,7 +7,8 @@ Zenvy is a high-performance collaboration ecosystem built with **Flutter**. It w
 
 ## 📽️ Product Demonstration
 <p align="center">
-  <img src="Demo.mp4" alt="Zenvy Demo">
+  <video src="https://github.com/user-attachments/assets/adf945cb-179b-45d2-8158-c9989d9a1aba" width="800" controls muted autoplay loop>
+  </video>
 </p>
 
 ---
